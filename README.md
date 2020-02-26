@@ -3,7 +3,6 @@
 OpenStack virtual hosts distribution across hypervisors
 
 [![Standard Version](https://img.shields.io/badge/release-standard%20version-brightgreen.svg?style=plastic)](https://github.com/conventional-changelog/standard-version)
-<!-- [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/tbaltrushaitis/lvs-vms/blob/master/LICENSE.md) -->
 
 ![OpenStack Diagram](assets/img/openstack-virtual-hosts-diagram.png)
 
@@ -12,7 +11,7 @@ OpenStack virtual hosts distribution across hypervisors
 ---
 
 ## Live Demo ##
-We provide this [page](http://bit.ly/lvs-vms) :point_left: for testing purposes
+We provide this [page](http://bit.ly/lvs-vis) :point_left: for testing purposes
 
 ---
 
