@@ -1,13 +1,12 @@
 # LVS-VMS #
 
-OpenStack virtual machines distribution across hypervisors
+OpenStack virtual hosts distribution across hypervisors
 
 [![Standard Version](https://img.shields.io/badge/release-standard%20version-brightgreen.svg?style=plastic)](https://github.com/conventional-changelog/standard-version)
-<!-- [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/tbaltrushaitis/lvs-vms/blob/master/LICENSE.md) -->
 
 ![OpenStack Diagram](assets/img/openstack-virtual-hosts-diagram.png)
 
-`cmdb` `real-time` `tasks` `queue` `progress` `monitoring` `visualized` `data visualization`
+`openstack` `visualized` `data visualization` `nova` `infrastructure`
 
 ---
 
@@ -30,7 +29,5 @@ Magic jump to [README] file
 
 :scorpius:
 
-[readme]: README.md
 [README]: README.md
-[current]: README.md
 [License]: LICENSE.md

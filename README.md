@@ -6,7 +6,7 @@ OpenStack virtual hosts distribution across hypervisors
 
 ![OpenStack Diagram](assets/img/openstack-virtual-hosts-diagram.png)
 
-`cmdb` `real-time` `tasks` `queue` `progress` `monitoring` `visualized` `data visualization`
+`openstack` `visualized` `data visualization` `nova` `infrastructure`
 
 ---
 
@@ -15,11 +15,9 @@ We provide this [page](http://bit.ly/lvs-vis) :point_left: for testing purposes
 
 ---
 
-## Getting started ##
+## Usage ##
 
-Its simple. Get it done in the way like this piece of shi*, sorry, of course pieces of code below:
-
-Simply clone the repository and then run `make` inside of a cloned directory:
+Its simple. Get it done in the way like this piece of code below:
 
 ```shell
 $  REPO="lvs-vms" \
